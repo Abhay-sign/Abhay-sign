@@ -67,8 +67,8 @@ categories, authentication and expense analytics.
 
 ## 💻 Coding Profiles
 
-- [LeetCode](YOUR_LEETCODE_LINK)
-- [GeeksforGeeks](YOUR_GFG_LINK)
+- [LeetCode](https://leetcode.com/u/C0derAbhay/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/vishwakarml3al/)
 
 ---
 
@@ -84,8 +84,8 @@ categories, authentication and expense analytics.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Abhay Vishwakarma](YOUR_LINKEDIN_LINK)
-- Email: YOUR_EMAIL
+- [LinkedIn](https://www.linkedin.com/in/abhay-vishwakarma-372540325/)
+- Email: vishwakarmaabhay420@gmail.com
 
 ---
 
